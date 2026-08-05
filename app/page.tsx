@@ -152,7 +152,7 @@ export default function Home() {
             <br />
             No Powder,
             <br />
-            No Syrup
+            No Syrup.
             <br />
             Choose <span style={{ color: "#95c979" }}>SPLASH.</span>
           </h1>
