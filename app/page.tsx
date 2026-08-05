@@ -11,6 +11,7 @@ const products = [
   "Strawberry Banana",
   "Straw Mango",
   "Mango Passion",
+  "Orange Passion",
 ];
 
 const bottles = [
@@ -24,6 +25,7 @@ const bottles = [
   "/bottles/strawberry-banana.png",
   "/bottles/straw-mango.png",
   "/bottles/mango-passion.png",
+  "/bottles/orange-passion.png",
 ];
 
 const SLIDE_TIME_SECONDS = 3;
